@@ -33,8 +33,8 @@
         // settings
         type: "success",
         placement: {
-          from: "top",
-          align: "center"
+          from: "bottom",
+          align: "left"
         }
       });
 
